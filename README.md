@@ -1,8 +1,12 @@
 # football-dragram
+可视化 canvas 编辑工具
+
+
 
 > A Vue.js project
 
 ## Build Setup
+
 
 ``` bash
 # install dependencies
